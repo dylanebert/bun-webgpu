@@ -1,5 +1,5 @@
 > This fork carries one fix pending upstream: packed acquisition arguments and callbacks stay alive across native calls.
-> Upstream PR: pending.
+> Upstream PR: https://github.com/kommander/bun-webgpu/pull/9
 
 # bun-webgpu
 
