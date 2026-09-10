@@ -1,3 +1,6 @@
+> This fork carries one fix pending upstream: packed acquisition arguments and callbacks stay alive across native calls.
+> Upstream PR: pending.
+
 # bun-webgpu
 
 WebGPU ([Dawn](https://dawn.googlesource.com/dawn)) FFI bindings for Bun.
